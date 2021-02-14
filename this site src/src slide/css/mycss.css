@@ -53,6 +53,19 @@ slide p{
     margin-top: 30%;
     color: #fff;
 }
+
+.color-vip-keremi{
+    color: #FFD394;
+}
+.color-vip-darkgray{
+    color: #BCB9A4;
+}
+.color-vip-lightgray{
+    color: #DFDDCE;
+}
+.color-vip-blue{
+    color: #14B8C2;
+}
 @keyframes slide{
     0%{left: 100%; width: 100%;}
     5%{left: 0%;}
